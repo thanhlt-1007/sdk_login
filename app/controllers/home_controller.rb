@@ -4,4 +4,7 @@ class HomeController < ApplicationController
 
   def facebook
   end
+
+  def google
+  end
 end
